@@ -15,4 +15,4 @@ int n;
   if(n==0)
   {cout<<"zero";
   }
-getch(o)}
+getch();}
